@@ -18,7 +18,7 @@ This project is done as follows:
 - Software: [Anaconda( Jupyter Notebook )](https://www.anaconda.com/products/individual)
 - Module: Pandas, Numpy, CitiPy, Matplotlib.pyplot, gmaps
 
-## Results
+
 
 
 ## Summary
