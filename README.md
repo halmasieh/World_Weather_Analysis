@@ -28,7 +28,14 @@ In the second stage, we created a new DataFrame containing the updated weather d
 the data for the weather preferences, which will be used to identify potential travel destinations and nearby hotels. As seen below
 
 
+![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/sum_fare.PNG)
+
+
 From the list of potential 
 travel destinations, the beta tester will choose four cities to create a travel iternerary. lastly, using the Google Maps Directions API, we create 
 a travel route between four cities as well as layer map. 
+
+
+![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/sum_fare.PNG)
+
 
