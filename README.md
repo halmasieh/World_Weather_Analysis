@@ -10,14 +10,9 @@ This project is done as follows:
  a website to an application programming interface. Gathering data from an API is more practical and efficient than trying to obtain data directly from
  a website specially when we want megabytes and gigabytes of data.
  Web API allow us to request data from a website or database server by observing the rules of the website. When we retrieve data from an API, the data is returned 
- a variety of formats such as CSV and json formats. Many analysts prefer json format because it has hierarchical structure and stores metadata in key-value pairs.  
+ a variety of formats such as csv and json formats. Many analysts prefer json format because it has hierarchical structure and stores metadata in key-value pairs. 
+ We analyze data using pandas, matplotlib library and google maps API. Lastly, the end results is a series of plots that visually statistically show the relationship between latitude and variety of weather parameters. 
  
- 
- 
- for a hypothetical travel company, PlanMyTrip.  
-   
-  
-
 ## Resources
 - Data Sources: WeatherPy_Database.csv, WeatherPy_Vacation.csv, APIs
 - Software: [Anaconda( Jupyter Notebook )](https://www.anaconda.com/products/individual), [Matplotlib-Python Plotting](https://matplotlib.org/) 
