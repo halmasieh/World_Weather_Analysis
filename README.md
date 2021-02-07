@@ -25,17 +25,11 @@ This project is done as follows:
 Firstly, we generated a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition
 to the city weather data that we have already gathered, we used our API skills to retrieve the current weather description for each city. 
 In the second stage, we created a new DataFrame containing the updated weather data. Then we have the beta testers use input statements to filter 
-the data for the weather preferences, which will be used to identify potential travel destinations and nearby hotels. As seen below
-
-
-![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/sum_fare.PNG)
-
-
-From the list of potential 
+the data for the weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential 
 travel destinations, the beta tester will choose four cities to create a travel iternerary. lastly, using the Google Maps Directions API, we create 
-a travel route between four cities as well as layer map. 
+a travel route between four cities as well as layer map. As seen below:
 
 
-![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/sum_fare.PNG)
+![here](https://github.com/halmasieh/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
