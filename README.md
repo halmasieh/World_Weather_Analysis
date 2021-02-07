@@ -26,7 +26,7 @@ Firstly, we generated a set of 2,000 random latitudes and longitudes, retrieve t
 to the city weather data that we have already gathered, we used our API skills to retrieve the current weather description for each city. As seen below:
 
 
-![here](https://github.com/halmasieh/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+![here](https://github.com/halmasieh/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG)
 
 
 
